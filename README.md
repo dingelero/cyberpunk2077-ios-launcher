@@ -8,6 +8,24 @@
 
 [下载 IPA 和工具](https://github.com/dingelero/cyberpunk2077-ios-launcher/releases/latest) · [完整安装教程（中文 / English）](docs/DingElero启动器-使用教程.md)
 
+## 游戏截图
+
+**实机游戏画面**
+
+![实机游戏画面](docs/screenshots/gameplay.png)
+
+**驾驶画面**
+
+![驾驶画面](docs/screenshots/driving.png)
+
+**触控界面**
+
+![触控界面](docs/screenshots/touch-controls.png)
+
+**游戏内基准测试（FSR 帧生成开启）**
+
+![游戏内基准测试（FSR 帧生成开启）](docs/screenshots/benchmark.png)
+
 ## 安装与导入资源
 
 1. 重签 IPA 及其嵌套动态库后安装。覆盖更新保持原 Bundle ID，保留资源和存档。
