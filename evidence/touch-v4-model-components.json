@@ -1,0 +1,15 @@
+{
+  "stationaryLookChecks" : 600,
+  "savedLayoutBindingAndSensitivityRoundTripPassed" : true,
+  "completeNativeButtons" : 16,
+  "passed" : true,
+  "defaultNoOverlapLayouts" : 8,
+  "bilingualBindingCount" : 24,
+  "scope" : "Production router and layout model on ARM64 Mac; no OS multi-finger injection or game loaded",
+  "sameDisplacementDifferentSampleCounts" : 240,
+  "malformedLayoutSanitized" : true,
+  "fourIndependentContactRolesPassed" : true,
+  "crossingMidlineDoesNotStealGesture" : true,
+  "additionalBlankFingerDoesNotStealGesture" : true,
+  "physicalTouchGameplayVerified" : false
+}

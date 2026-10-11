@@ -1,0 +1,402 @@
+{
+  "format": "CPResourceManifestV1",
+  "created_utc": "2026-10-09T11:44:09.049860+00:00",
+  "scope": "basegame",
+  "source_root": "~/Library/Application Support/Steam/steamapps/common/Cyberpunk 2077",
+  "buffer_bytes": 4194304,
+  "file_count": 65,
+  "total_bytes": 70086776908,
+  "files": [
+    {
+      "path": "Cyberpunk2077.app/Contents/Info.plist",
+      "size": 1583,
+      "sha256": "ead6e7e38a96d1a2979a5304c813d99abbf47c3d64bd5eccedc823cec149d7e5",
+      "source_mtime_ns": 1791128927900778343
+    },
+    {
+      "path": "Cyberpunk2077.app/Contents/Resources/AppIcon.icns",
+      "size": 133897,
+      "sha256": "629bb00618f5f54170bebff019b9755437a7fe329f6c86e673a93568886e9967",
+      "source_mtime_ns": 1791128928805348996
+    },
+    {
+      "path": "Cyberpunk2077.app/Contents/Resources/Assets.car",
+      "size": 2882808,
+      "sha256": "bb52f27a4e53e841dabf8ab0836b3a2e40a073ffa13a098096d921c08fc84008",
+      "source_mtime_ns": 1791128928958570389
+    },
+    {
+      "path": "archive/Mac/content/audio_1_general.archive",
+      "size": 198012928,
+      "sha256": "fc724a5eef6264f982e02f01cc3498eab0193e1998283e05b8f4e63273dbb332",
+      "source_mtime_ns": 1791127773406628304
+    },
+    {
+      "path": "archive/Mac/content/audio_2_soundbanks.archive",
+      "size": 8828301312,
+      "sha256": "ba53c5309e8ddcf6df1cbaa3b5f9fb64258813c070bf248882317fcbd0cb1876",
+      "source_mtime_ns": 1791127975249984770
+    },
+    {
+      "path": "archive/Mac/content/basegame_1_engine.archive",
+      "size": 1677709312,
+      "sha256": "41fb016a51af89b32ffa81ab19feb4410c3573fb13f270df28490689d117c61d",
+      "source_mtime_ns": 1791128563839699041
+    },
+    {
+      "path": "archive/Mac/content/basegame_2_mainmenu.archive",
+      "size": 327680,
+      "sha256": "c9510aed18511ede6297ed78f6e7d70aeb973ce5625df3ebe50243ab9da6720d",
+      "source_mtime_ns": 1791127874090188960
+    },
+    {
+      "path": "archive/Mac/content/basegame_3_nightcity.archive",
+      "size": 8944173056,
+      "sha256": "4a631462b7c9d3700d321b601a58924eb716cdf9194a0b426974a05848f5581a",
+      "source_mtime_ns": 1791128543843701569
+    },
+    {
+      "path": "archive/Mac/content/basegame_3_nightcity_gi.archive",
+      "size": 11865198592,
+      "sha256": "49a5b2845ba70f24a9863719d00a8c50229abb23a38bbf154f6c1b596601014e",
+      "source_mtime_ns": 1791128469523132743
+    },
+    {
+      "path": "archive/Mac/content/basegame_3_nightcity_terrain.archive",
+      "size": 3046383616,
+      "sha256": "aca90041d174db751177832a32f442aded9cf8110b06418fbb96682004ac0ffa",
+      "source_mtime_ns": 1791128494183746183
+    },
+    {
+      "path": "archive/Mac/content/basegame_4_animation.archive",
+      "size": 1082638336,
+      "sha256": "cbd1717cd368db1112c0341be98d7592c69995d698d0f30dc4de598095d4fedf",
+      "source_mtime_ns": 1791128554604877921
+    },
+    {
+      "path": "archive/Mac/content/basegame_4_appearance.archive",
+      "size": 6640025600,
+      "sha256": "23d3a92e46b1dbdba17aef7a916bf3e42066d801c2361bc021a19427bcd9fca8",
+      "source_mtime_ns": 1791128571840640094
+    },
+    {
+      "path": "archive/Mac/content/basegame_4_gamedata.archive",
+      "size": 3509743616,
+      "sha256": "ce3c763764e5309c6c58d77d690fa2fc4db9007f66ab24c4b4b2d8099be7acb6",
+      "source_mtime_ns": 1791128614140072945
+    },
+    {
+      "path": "archive/Mac/content/basegame_5_video.archive",
+      "size": 13895094272,
+      "sha256": "a8a7af161792371f9fe90293ab243cfbe7d91b979db722bce1e2f6734c862e78",
+      "source_mtime_ns": 1791128819778842437
+    },
+    {
+      "path": "archive/Mac/content/lang_ar_text.archive",
+      "size": 8540160,
+      "sha256": "9a4c9d1bf80155f21cd22f19add732a94b815132998e54d8511f14d1b6a6d8de",
+      "source_mtime_ns": 1791128820287887100
+    },
+    {
+      "path": "archive/Mac/content/lang_cs_text.archive",
+      "size": 8019968,
+      "sha256": "8307b63495e66e2bb4ed8e2ee23bf3943cd56a034bbc60ace651b34f0c3dfe82",
+      "source_mtime_ns": 1791128819778857770
+    },
+    {
+      "path": "archive/Mac/content/lang_de_text.archive",
+      "size": 7884800,
+      "sha256": "33af6188ec2ea47f43e3eba2ee16d595aedd7a287f73b21f52b5591bc3e37e67",
+      "source_mtime_ns": 1791128819985173084
+    },
+    {
+      "path": "archive/Mac/content/lang_en_text.archive",
+      "size": 7557120,
+      "sha256": "2bbcb5848255852c5b93e6a088dbe377956d82bded83d776919c5a3988975cb9",
+      "source_mtime_ns": 1791128820184867652
+    },
+    {
+      "path": "archive/Mac/content/lang_en_voice.archive",
+      "size": 5000957952,
+      "sha256": "8b1d252e64022ea08eb45b0cbb6ae8c1e25252408203d1b3af059c8c765eafcb",
+      "source_mtime_ns": 1791128860708681136
+    },
+    {
+      "path": "archive/Mac/content/lang_es-es_text.archive",
+      "size": 7708672,
+      "sha256": "712c91b0a907f615438e93e3d92f3d82d4a1dab2eab94b59111e24338b5eb896",
+      "source_mtime_ns": 1791128860709289347
+    },
+    {
+      "path": "archive/Mac/content/lang_es-mx_text.archive",
+      "size": 7680000,
+      "sha256": "fc9340c0ca0bf1ba1826395da484c44233f2b2a393f207e11ea1648291ba58da",
+      "source_mtime_ns": 1791128861008450343
+    },
+    {
+      "path": "archive/Mac/content/lang_fr_text.archive",
+      "size": 7962624,
+      "sha256": "2df1d80d5f134bd6b55df2af400e32921face237f9906ed3a999ab5fab72f8c8",
+      "source_mtime_ns": 1791128857433898476
+    },
+    {
+      "path": "archive/Mac/content/lang_hu_text.archive",
+      "size": 7999488,
+      "sha256": "541034420e2b137514818004ff2a1d050712967a37c4469b016227bcd5ab36ee",
+      "source_mtime_ns": 1791128861008530719
+    },
+    {
+      "path": "archive/Mac/content/lang_it_text.archive",
+      "size": 7589888,
+      "sha256": "e854fad790d806ffeb0d8f6967a67452d02ac10fbf0ea85e20b00d69c256fa6d",
+      "source_mtime_ns": 1791128861008519719
+    },
+    {
+      "path": "archive/Mac/content/lang_ja_text.archive",
+      "size": 7933952,
+      "sha256": "7329fec5ac045075cd05180c83eb98cf72855c2ff66b376527c878d5d8622fd8",
+      "source_mtime_ns": 1791128857587894457
+    },
+    {
+      "path": "archive/Mac/content/lang_ko_text.archive",
+      "size": 7991296,
+      "sha256": "3cc6f19bb116235e59cac61d938c034d7dd4acdb06bccbee8e2b815ac68396f4",
+      "source_mtime_ns": 1791128857587804040
+    },
+    {
+      "path": "archive/Mac/content/lang_pl_text.archive",
+      "size": 7778304,
+      "sha256": "3bef507ee6af42853e0b755ac71ca4ac4d1e04d3844dda56b2b5739b4b483768",
+      "source_mtime_ns": 1791128857587966332
+    },
+    {
+      "path": "archive/Mac/content/lang_pt_text.archive",
+      "size": 7680000,
+      "sha256": "9e3f06f0f2ca77e4891ee88b6ac03ed679c492113be28f90ffb89394f23b8a89",
+      "source_mtime_ns": 1791128861109025153
+    },
+    {
+      "path": "archive/Mac/content/lang_ru_text.archive",
+      "size": 8437760,
+      "sha256": "9c3bd535202d41dc2ff399af23ace19a1bc2f5c74df15e98a5c0cfeb65b2fa61",
+      "source_mtime_ns": 1791128861158646262
+    },
+    {
+      "path": "archive/Mac/content/lang_th_text.archive",
+      "size": 8613888,
+      "sha256": "7b49d82045366b5e5666e4cdc7b12aaf69e65c24122fe0606530f88029529bea",
+      "source_mtime_ns": 1791128857793255932
+    },
+    {
+      "path": "archive/Mac/content/lang_tr_text.archive",
+      "size": 7733248,
+      "sha256": "45c0b440d50340b9da02cc9fc8ca748c540c9027f6034ce40732706eabe0854d",
+      "source_mtime_ns": 1791128857793255640
+    },
+    {
+      "path": "archive/Mac/content/lang_ua_text.archive",
+      "size": 8650752,
+      "sha256": "50ddbe287c36cf3bcea8abc180bd47648daccf93ff106f7a915a5f979f8540ae",
+      "source_mtime_ns": 1791128861108793026
+    },
+    {
+      "path": "archive/Mac/content/lang_zh-cn_text.archive",
+      "size": 7790592,
+      "sha256": "3a2f1cf7d24b4f9bd76c7c89d101cb1044ef0b13cd3f801bb9fe4b538fed0537",
+      "source_mtime_ns": 1791128861258689609
+    },
+    {
+      "path": "archive/Mac/content/lang_zh-cn_voice.archive",
+      "size": 4892688384,
+      "sha256": "d7a8f6fad1b7a24129c629bb0846a1ad4a4f0ba831680dd2b5ef647f38a0e72f",
+      "source_mtime_ns": 1791128927144466181
+    },
+    {
+      "path": "archive/Mac/content/lang_zh-tw_text.archive",
+      "size": 7663616,
+      "sha256": "a01dc8fa00d8bc995d874eccb247747c64b3895c74eafa28f68d57ecef5f9486",
+      "source_mtime_ns": 1791128857998019570
+    },
+    {
+      "path": "archive/Mac/content/memoryresident_1_general.archive",
+      "size": 14966784,
+      "sha256": "4647ffb93f3b106af4b49fb53dd24a2f314f1f64d411651512fcdf3b0d294069",
+      "source_mtime_ns": 1791128857998428864
+    },
+    {
+      "path": "engine/config/base/animation.ini",
+      "size": 582,
+      "sha256": "19631fb52b913370f32252eeac5abf4f42b4a2fdad87c6d7e4becddc335f3cb3",
+      "source_mtime_ns": 1791128824640103623
+    },
+    {
+      "path": "engine/config/base/general.ini",
+      "size": 61,
+      "sha256": "f7b7cedbfcb838de7903488c85470235006c6bcc940a09463f9a4e3823bd50ef",
+      "source_mtime_ns": 1791128857946697243
+    },
+    {
+      "path": "engine/config/base/multiplayer.ini",
+      "size": 374,
+      "sha256": "1e1211c0fd781f50bbf685d262a27dd547348ff9e8b4ecfb603647e033058a51",
+      "source_mtime_ns": 1791128824740776016
+    },
+    {
+      "path": "engine/config/base/rendering.ini",
+      "size": 42,
+      "sha256": "86b8d29c873322b30aa04a6d8fcc276a9bf4f78125dcc58277311930281a2143",
+      "source_mtime_ns": 1791128824740684557
+    },
+    {
+      "path": "engine/config/base/resources.ini",
+      "size": 46,
+      "sha256": "18922be81061cd0fb66952088ef5c137213c4544aea62f6db04b222600c0942a",
+      "source_mtime_ns": 1791128824842195079
+    },
+    {
+      "path": "engine/config/base/scenesystem.ini",
+      "size": 886,
+      "sha256": "b97098c2541dda15523239360e9f0e861b752d2ec7d5c9dc110d4b273bd5055c",
+      "source_mtime_ns": 1791128824842267496
+    },
+    {
+      "path": "engine/config/base/smartobjects.ini",
+      "size": 98,
+      "sha256": "8e7c884b2adbfc64456c29c02d8cfd41a98cad74793cd06e18dcaa2e1b3c6cad",
+      "source_mtime_ns": 1791128824842279330
+    },
+    {
+      "path": "engine/config/galaxy/pc/REDGalaxyPeer_default.json",
+      "size": 369,
+      "sha256": "42aecfc21b3f203cdc6f4637959af4b81e0b79afa910372b4f2a477372adc87d",
+      "source_mtime_ns": 1791128824842460623
+    },
+    {
+      "path": "engine/config/galaxy/pc_launcher/REDGalaxyPeer_default.json",
+      "size": 397,
+      "sha256": "a8d73ccbcac0e19178a94d424ea0fe95d2268f2b19798828988be96c5d72a9d9",
+      "source_mtime_ns": 1791128824842409956
+    },
+    {
+      "path": "engine/config/giweights.json",
+      "size": 131,
+      "sha256": "a84714401155ea4af4fdafee0c7a0febf3e88e54073da79f685d18fb1b006993",
+      "source_mtime_ns": 1791128857946716076
+    },
+    {
+      "path": "engine/config/platform/mac/gameservices.ini",
+      "size": 93,
+      "sha256": "d12a8876e46815c2d66200b64b764fee53a294e8d887881c5cee91380527d8c6",
+      "source_mtime_ns": 1791128857998159195
+    },
+    {
+      "path": "engine/config/platform/mac/platformgameplay.ini",
+      "size": 125,
+      "sha256": "0ac56d1426c2672b06c801eb23e483c71ea62190d3acb45e9a1401706c193fc2",
+      "source_mtime_ns": 1791128824842463248
+    },
+    {
+      "path": "engine/config/platform/mac/rendering.ini",
+      "size": 44,
+      "sha256": "32fd1f5cdeb64325bc0e38c1a55a161e6dd8b551001f6f793ac1056986f968df",
+      "source_mtime_ns": 1791128857998111362
+    },
+    {
+      "path": "engine/shadermetal_final.cache",
+      "size": 260842617,
+      "sha256": "ab071feb659f671e17acf43d0b1ee734b6921deec3e1d8799e8a3b23c0a2a80c",
+      "source_mtime_ns": 1791128861858747945
+    },
+    {
+      "path": "engine/staticshadermetal_final.cache",
+      "size": 16766019,
+      "sha256": "52258d24ff27c078a40ed1b2ae1e7eb0c9e413c5a5558606712b25bf86bb89cb",
+      "source_mtime_ns": 1791128862558744668
+    },
+    {
+      "path": "engine/staticshadermetalnative.cache",
+      "size": 32,
+      "sha256": "eda9e9e6be8e03bb9635409a509e836faff77f76e95ef18b5a9c1cdd9b3cdb6f",
+      "source_mtime_ns": 1791128826216128133
+    },
+    {
+      "path": "engine/staticshadermetalnative_final.cache",
+      "size": 32,
+      "sha256": "eda9e9e6be8e03bb9635409a509e836faff77f76e95ef18b5a9c1cdd9b3cdb6f",
+      "source_mtime_ns": 1791128826216082674
+    },
+    {
+      "path": "engine/staticshadermsl.metallib",
+      "size": 32528,
+      "sha256": "bc449b03f0544b0fa71fbb7a0b0f2e12af9715070ffc3a3c2493fb8bb7981c13",
+      "source_mtime_ns": 1791128862008837154
+    },
+    {
+      "path": "r6/cache/final.redscripts",
+      "size": 16166357,
+      "sha256": "9a5579067ef2e3fc0f959da615ec6a0765b4bf0958abf47807791321a4dc7937",
+      "source_mtime_ns": 1791128862408713501
+    },
+    {
+      "path": "r6/cache/tweakdb.bin",
+      "size": 42028033,
+      "sha256": "ba0f78e88fcf7d5ed3a2ee61726384ab540f18edc6f1f553a805bdccd2e3f51d",
+      "source_mtime_ns": 1791128863218233501
+    },
+    {
+      "path": "r6/config/bumpersSettings.json",
+      "size": 75,
+      "sha256": "617b927fad3f2366b5fe3603118c00717a4e81f26448fc8aede9e01bdc6cce00",
+      "source_mtime_ns": 1791128862558791210
+    },
+    {
+      "path": "r6/config/inputContexts.xml",
+      "size": 103646,
+      "sha256": "ce780595b77a060119a063434eb4b7dab2312e55252c772ef7ff17428bb90d70",
+      "source_mtime_ns": 1791128826727117306
+    },
+    {
+      "path": "r6/config/inputContexts_mac.xml",
+      "size": 106280,
+      "sha256": "8253280a843d5889f10921148fae734fc826d0d540b3b7faf907dad89f695386",
+      "source_mtime_ns": 1791128862558823877
+    },
+    {
+      "path": "r6/config/inputDeadzones.xml",
+      "size": 1375,
+      "sha256": "e7b232ad37b6cfe5fa13c3e879348af0cf64988db9f30eddacbb1bb50b93fe38",
+      "source_mtime_ns": 1791128862960655028
+    },
+    {
+      "path": "r6/config/inputUserMappings.xml",
+      "size": 74062,
+      "sha256": "a57bd58879f3846f300ec9c30fc8111890b9d3aeb6b82842dc4070930e0ff48e",
+      "source_mtime_ns": 1791128826727103139
+    },
+    {
+      "path": "r6/config/settings/options.json",
+      "size": 94643,
+      "sha256": "b40c7b5c643d8c7e0e33e297eb699fbfb7ee13e08687f0635bc6e4f4294e65f4",
+      "source_mtime_ns": 1791128826727115473
+    },
+    {
+      "path": "r6/config/settings/platform/mac/options.json",
+      "size": 100765,
+      "sha256": "5fec2d7298c73bca99451a1259c5a16d16ff24248d754d150ccb9e306a01ef1e",
+      "source_mtime_ns": 1791128826777719920
+    },
+    {
+      "path": "r6/config/uiInputActions.xml",
+      "size": 813,
+      "sha256": "0c70f99546b06c4d5f6900174ac0c4c53eeaf42f88a42af967f62d3174ccd532",
+      "source_mtime_ns": 1791128826727195306
+    },
+    {
+      "path": "r6/publishing/mac/steam/additional-content/addonDescriptions.xml",
+      "size": 527,
+      "sha256": "a38944965153b9ba59ef802c5755a492b1fe6404c653b903482987f16264fe30",
+      "source_mtime_ns": 1791128826727138014
+    }
+  ],
+  "device_verified": false
+}

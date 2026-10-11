@@ -1,0 +1,150 @@
+{
+  "ipa": "Cyberpunk2077-DingElero-universal-v5.ipa",
+  "size": 63476479,
+  "sha256": "92daf52e8fe6fb35ac8d579d5d62b14137e842f7a55f3a0538df4a2e697b0f9c",
+  "zipCRCVerified": true,
+  "allPackagedBytesVerified": true,
+  "uuid": "A6656ADC-FBE2-36A4-9B9D-B4A9DE645089",
+  "patchedTextSHA256": "ed2da0c2f4c0cd0078976b281747cd91ea31116d7cd87df5085642ba5a7d5d31",
+  "performanceProfile": "universal-v5",
+  "enginePatch": "mobile-native30-v2",
+  "fileCount": 42,
+  "resourcesBundled": false,
+  "signing": "ad-hoc; requires user re-signing with embedded libraries",
+  "appVersion": "0.8.1",
+  "appBuild": "11",
+  "deviceFamilies": [
+    1,
+    2
+  ],
+  "outputHeightChoices": [
+    720,
+    1080
+  ],
+  "interfaceLanguages": [
+    "zh",
+    "en"
+  ],
+  "devicePresetCount": 6,
+  "allImagesNativeARM64IOS": true,
+  "gameModeDeclarations": {
+    "LSSupportsGameMode": true,
+    "GCSupportsGameMode": true,
+    "LSApplicationCategoryType": "public.app-category.games"
+  },
+  "launcherBranding": {
+    "credit": "DingElero",
+    "logoSHA256": "63c05699de9840c71953526602ce5b00234cf294b0328f2894c4c415a7f4f1f2",
+    "offlineTutorialLinked": true,
+    "phoneOnlyFilePlacementGuideLinked": true
+  },
+  "filesAppDocumentsSharingEnabled": true,
+  "gameModeEnabledOnDeviceVerified": false,
+  "gameplayVerified": false,
+  "platforms": {
+    "Payload/CyberpunkRebuilt.app/CyberpunkRebuilt": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/CyberpunkGuest.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libBink2MacArm64.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPAppKit.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPAudioToolbox.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPAudioUnit.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPCarbon.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPCocoa.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPCompat.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPCoreAudio.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPCoreGraphics.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPCurl.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPFoundation.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPIOKit.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPMetal.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPSecurity.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPSystem.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libGameServicesSteam.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libREDGalaxy64.dylib": [
+      2
+    ],
+    "Payload/CyberpunkRebuilt.app/Frameworks/libsteam_api.dylib": [
+      2
+    ]
+  },
+  "files": {
+    "Payload/CyberpunkRebuilt.app/AppIcon60x60@2x.png": "241681c19dd002ca72f4b185a3911c8ba11fcf086428b42b68d652b90f26fc36",
+    "Payload/CyberpunkRebuilt.app/AppIcon60x60@3x.png": "209ea157e9f45d953c5ff338d49e9a359d64601368a0962740148818bbeefcbd",
+    "Payload/CyberpunkRebuilt.app/AppIcon76x76@2x.png": "910c95b71acbf65cf4067bd97dde62ac536b8f65267fb1cf20d4ed2b6385a8bc",
+    "Payload/CyberpunkRebuilt.app/AppIcon83.5x83.5@2x.png": "7dbb5edb31aa4c23da49b061a402a3209795c367a5a0da983f155406453f065d",
+    "Payload/CyberpunkRebuilt.app/CyberpunkRebuilt": "feed4b81a807958302de9144bc37ae719050f9dd18bfed60bf872c21454abfe4",
+    "Payload/CyberpunkRebuilt.app/CyberpunkRebuilt.dSYM/Contents/Info.plist": "e03626ccbf880b164899b0bd7c9fdd61e975a576ffa225c258755a131adf11bd",
+    "Payload/CyberpunkRebuilt.app/CyberpunkRebuilt.dSYM/Contents/Resources/DWARF/CyberpunkRebuilt": "05496471c70d97d173e25d3ad625d6179c2536f76e0a16d8cb9d22ae6420b7c3",
+    "Payload/CyberpunkRebuilt.app/CyberpunkRebuilt.dSYM/Contents/Resources/Relocations/aarch64/CyberpunkRebuilt.yml": "8810dee5a886a8ef0e8565bcafc5be4d5f9e6ffa0b692f07f6a17f94b89cdc6b",
+    "Payload/CyberpunkRebuilt.app/Frameworks/CyberpunkGuest.dylib": "22b49c3d603fb45dfb111e435957d817a19dbe65258477961ad37a640202d3d2",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libBink2MacArm64.dylib": "eee38bec48a90ca20638c8986de8342a99b148264658294b55fd6a3ba8a91895",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPAppKit.dylib": "1690659cf2916d1ed2af37055b7fdb0901b9b0de9144ae475b707a8e02dc211c",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPAudioToolbox.dylib": "549d60681e1b079d08d21dc165d11e3a360581b4feadd92e583d9ccac39e87e4",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPAudioUnit.dylib": "a18eb890e9eab56bb8149283a6eb202bef9821442c1e4a979361fbb7955ba926",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPCarbon.dylib": "40386c764b1b98ff6c29cd8ed8cecc0b13f791a8bb307353b35d37ed1a6eef82",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPCocoa.dylib": "8408984b60bf3d28334f71b927b4a1fae693cdbacd02e93e89dd48b4204921b9",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPCompat.dylib": "85c600ed4e2f14915d21ee3cbbd9f9149f43ae09a27c3b937a500a0e322275bd",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPCoreAudio.dylib": "f995bba995968aeeeeb162bf01fc915889b61f3d4a6e3b71b2366e7897fffc9e",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPCoreGraphics.dylib": "3c236856e1bf64a37dc0333616cb9078fe098d9e761d67edcf160f6d3b9909bc",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPCurl.dylib": "f044d99d2f3d7b9f2ad848bd9d1508aefab9b278c5e89100176cb59d7c194d3a",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPFoundation.dylib": "0049f9f3684222188fcda095962611f8809c174295238af3323b42f988a10625",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPIOKit.dylib": "ba50b64e21a7dd0240bd0574fe343bab1f3905754aee815e2a0735f06cd481b6",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPMetal.dylib": "8076c0f082b0270a6d3e4552a2e43dd1150bf2184431e9c9aceab4bec044715d",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPSecurity.dylib": "823b07117a1a804b200765bcd838045027d080c32f7be50db880dd493e8569e3",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libCPSystem.dylib": "778eb95d364cdf49532454ca8637cb015d1c7b23dc8cb59e8f462da938f217be",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libGameServicesSteam.dylib": "4bf171e499e977bcc0e7d9a7c17b38afa4d588cf18c1bb44871aa3f46492dfed",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libREDGalaxy64.dylib": "3d130e4c54c5d170dca69026b4abdc690344206a7234354b98bcfb73d995a019",
+    "Payload/CyberpunkRebuilt.app/Frameworks/libsteam_api.dylib": "3dc8b5dfb2c84f477100d559fb9d1ba5e116ab0bf60c8445613422ce4ae422f2",
+    "Payload/CyberpunkRebuilt.app/GameData/Cyberpunk2077.app/Contents/Info.plist": "ead6e7e38a96d1a2979a5304c813d99abbf47c3d64bd5eccedc823cec149d7e5",
+    "Payload/CyberpunkRebuilt.app/GameData/Cyberpunk2077.app/Contents/Resources/AppIcon.icns": "629bb00618f5f54170bebff019b9755437a7fe329f6c86e673a93568886e9967",
+    "Payload/CyberpunkRebuilt.app/GameData/Cyberpunk2077.app/Contents/Resources/Assets.car": "bb52f27a4e53e841dabf8ab0836b3a2e40a073ffa13a098096d921c08fc84008",
+    "Payload/CyberpunkRebuilt.app/Info.plist": "81fe1bc3f04cb72bd0ab815cde5c2e213db6ba0dcca3e46ba52e677240a87676",
+    "Payload/CyberpunkRebuilt.app/LICENSE-Stray-iOS.txt": "32780f69b4240256cc1b2791908e093c861485df9748e0c6af0098973fd912a2",
+    "Payload/CyberpunkRebuilt.app/LauncherAssets/DingElero.png": "63c05699de9840c71953526602ce5b00234cf294b0328f2894c4c415a7f4f1f2",
+    "Payload/CyberpunkRebuilt.app/OPENSSL-LICENSE.txt": "7d5450cb2d142651b8afa315b5f238efc805dad827d91ba367d8516bc9d49e7a",
+    "Payload/CyberpunkRebuilt.app/PerformanceProfile/options.json": "5fec2d7298c73bca99451a1259c5a16d16ff24248d754d150ccb9e306a01ef1e",
+    "Payload/CyberpunkRebuilt.app/PerformanceProfile/profile.json": "53bc9b63dfe4ac89b1c1ca59083df9407c829fcb90d3a2dab71c9ef055199499",
+    "Payload/CyberpunkRebuilt.app/PerformanceProfile/rendering.ini": "bfc13363c0e3b44ffea59a33f0c8adb6e6a13f519f8f07d4ebfade49fb98687c",
+    "Payload/CyberpunkRebuilt.app/PkgInfo": "82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0",
+    "Payload/CyberpunkRebuilt.app/THIRD_PARTY_NOTICES.txt": "070029ac3440a4ea674267eec5755f6b4af2717cc0bc236b6b0ddfc174ee5840",
+    "Payload/CyberpunkRebuilt.app/_CodeSignature/CodeResources": "7417bfbb58aa21a346ab7251b96fb77c4a775ddf3effd7c8499b1c00b087ef65",
+    "Payload/CyberpunkRebuilt.app/curl-COPYING.txt": "82f2f4427d6545ee5aaac4f0b80428da6cc8ba41c2cf5da3a03680ec327b9681",
+    "Payload/CyberpunkRebuilt.app/guest.json": "219bf82cfe629b01ce701e7f4e386d6f0813215e54a55ea00a864b8f6a2833f2"
+  }
+}

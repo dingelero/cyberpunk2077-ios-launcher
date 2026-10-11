@@ -1,0 +1,445 @@
+{
+  "passed" : true,
+  "profileCount" : 6,
+  "profileResolutionScreenCases" : 72,
+  "matrix" : [
+    {
+      "screen" : "{2868, 1320}",
+      "output" : "1564x720",
+      "height" : 720,
+      "profile" : "phone-a15-a16"
+    },
+    {
+      "screen" : "{2532, 1170}",
+      "output" : "1558x720",
+      "height" : 720,
+      "profile" : "phone-a15-a16"
+    },
+    {
+      "screen" : "{2732, 2048}",
+      "output" : "960x720",
+      "height" : 720,
+      "profile" : "phone-a15-a16"
+    },
+    {
+      "screen" : "{2360, 1640}",
+      "output" : "1036x720",
+      "height" : 720,
+      "profile" : "phone-a15-a16"
+    },
+    {
+      "screen" : "{2266, 1488}",
+      "output" : "1096x720",
+      "height" : 720,
+      "profile" : "phone-a15-a16"
+    },
+    {
+      "screen" : "{2420, 1668}",
+      "output" : "1044x720",
+      "height" : 720,
+      "profile" : "phone-a15-a16"
+    },
+    {
+      "screen" : "{2868, 1320}",
+      "output" : "2346x1080",
+      "height" : 1080,
+      "profile" : "phone-a15-a16"
+    },
+    {
+      "screen" : "{2532, 1170}",
+      "output" : "2338x1080",
+      "height" : 1080,
+      "profile" : "phone-a15-a16"
+    },
+    {
+      "screen" : "{2732, 2048}",
+      "output" : "1440x1080",
+      "height" : 1080,
+      "profile" : "phone-a15-a16"
+    },
+    {
+      "screen" : "{2360, 1640}",
+      "output" : "1554x1080",
+      "height" : 1080,
+      "profile" : "phone-a15-a16"
+    },
+    {
+      "screen" : "{2266, 1488}",
+      "output" : "1644x1080",
+      "height" : 1080,
+      "profile" : "phone-a15-a16"
+    },
+    {
+      "screen" : "{2420, 1668}",
+      "output" : "1566x1080",
+      "height" : 1080,
+      "profile" : "phone-a15-a16"
+    },
+    {
+      "screen" : "{2868, 1320}",
+      "output" : "1564x720",
+      "height" : 720,
+      "profile" : "phone-a17"
+    },
+    {
+      "screen" : "{2532, 1170}",
+      "output" : "1558x720",
+      "height" : 720,
+      "profile" : "phone-a17"
+    },
+    {
+      "screen" : "{2732, 2048}",
+      "output" : "960x720",
+      "height" : 720,
+      "profile" : "phone-a17"
+    },
+    {
+      "screen" : "{2360, 1640}",
+      "output" : "1036x720",
+      "height" : 720,
+      "profile" : "phone-a17"
+    },
+    {
+      "screen" : "{2266, 1488}",
+      "output" : "1096x720",
+      "height" : 720,
+      "profile" : "phone-a17"
+    },
+    {
+      "screen" : "{2420, 1668}",
+      "output" : "1044x720",
+      "height" : 720,
+      "profile" : "phone-a17"
+    },
+    {
+      "screen" : "{2868, 1320}",
+      "output" : "2346x1080",
+      "height" : 1080,
+      "profile" : "phone-a17"
+    },
+    {
+      "screen" : "{2532, 1170}",
+      "output" : "2338x1080",
+      "height" : 1080,
+      "profile" : "phone-a17"
+    },
+    {
+      "screen" : "{2732, 2048}",
+      "output" : "1440x1080",
+      "height" : 1080,
+      "profile" : "phone-a17"
+    },
+    {
+      "screen" : "{2360, 1640}",
+      "output" : "1554x1080",
+      "height" : 1080,
+      "profile" : "phone-a17"
+    },
+    {
+      "screen" : "{2266, 1488}",
+      "output" : "1644x1080",
+      "height" : 1080,
+      "profile" : "phone-a17"
+    },
+    {
+      "screen" : "{2420, 1668}",
+      "output" : "1566x1080",
+      "height" : 1080,
+      "profile" : "phone-a17"
+    },
+    {
+      "screen" : "{2868, 1320}",
+      "output" : "1564x720",
+      "height" : 720,
+      "profile" : "phone-a18-plus"
+    },
+    {
+      "screen" : "{2532, 1170}",
+      "output" : "1558x720",
+      "height" : 720,
+      "profile" : "phone-a18-plus"
+    },
+    {
+      "screen" : "{2732, 2048}",
+      "output" : "960x720",
+      "height" : 720,
+      "profile" : "phone-a18-plus"
+    },
+    {
+      "screen" : "{2360, 1640}",
+      "output" : "1036x720",
+      "height" : 720,
+      "profile" : "phone-a18-plus"
+    },
+    {
+      "screen" : "{2266, 1488}",
+      "output" : "1096x720",
+      "height" : 720,
+      "profile" : "phone-a18-plus"
+    },
+    {
+      "screen" : "{2420, 1668}",
+      "output" : "1044x720",
+      "height" : 720,
+      "profile" : "phone-a18-plus"
+    },
+    {
+      "screen" : "{2868, 1320}",
+      "output" : "2346x1080",
+      "height" : 1080,
+      "profile" : "phone-a18-plus"
+    },
+    {
+      "screen" : "{2532, 1170}",
+      "output" : "2338x1080",
+      "height" : 1080,
+      "profile" : "phone-a18-plus"
+    },
+    {
+      "screen" : "{2732, 2048}",
+      "output" : "1440x1080",
+      "height" : 1080,
+      "profile" : "phone-a18-plus"
+    },
+    {
+      "screen" : "{2360, 1640}",
+      "output" : "1554x1080",
+      "height" : 1080,
+      "profile" : "phone-a18-plus"
+    },
+    {
+      "screen" : "{2266, 1488}",
+      "output" : "1644x1080",
+      "height" : 1080,
+      "profile" : "phone-a18-plus"
+    },
+    {
+      "screen" : "{2420, 1668}",
+      "output" : "1566x1080",
+      "height" : 1080,
+      "profile" : "phone-a18-plus"
+    },
+    {
+      "screen" : "{2868, 1320}",
+      "output" : "1564x720",
+      "height" : 720,
+      "profile" : "tablet-a-series"
+    },
+    {
+      "screen" : "{2532, 1170}",
+      "output" : "1558x720",
+      "height" : 720,
+      "profile" : "tablet-a-series"
+    },
+    {
+      "screen" : "{2732, 2048}",
+      "output" : "960x720",
+      "height" : 720,
+      "profile" : "tablet-a-series"
+    },
+    {
+      "screen" : "{2360, 1640}",
+      "output" : "1036x720",
+      "height" : 720,
+      "profile" : "tablet-a-series"
+    },
+    {
+      "screen" : "{2266, 1488}",
+      "output" : "1096x720",
+      "height" : 720,
+      "profile" : "tablet-a-series"
+    },
+    {
+      "screen" : "{2420, 1668}",
+      "output" : "1044x720",
+      "height" : 720,
+      "profile" : "tablet-a-series"
+    },
+    {
+      "screen" : "{2868, 1320}",
+      "output" : "2346x1080",
+      "height" : 1080,
+      "profile" : "tablet-a-series"
+    },
+    {
+      "screen" : "{2532, 1170}",
+      "output" : "2338x1080",
+      "height" : 1080,
+      "profile" : "tablet-a-series"
+    },
+    {
+      "screen" : "{2732, 2048}",
+      "output" : "1440x1080",
+      "height" : 1080,
+      "profile" : "tablet-a-series"
+    },
+    {
+      "screen" : "{2360, 1640}",
+      "output" : "1554x1080",
+      "height" : 1080,
+      "profile" : "tablet-a-series"
+    },
+    {
+      "screen" : "{2266, 1488}",
+      "output" : "1644x1080",
+      "height" : 1080,
+      "profile" : "tablet-a-series"
+    },
+    {
+      "screen" : "{2420, 1668}",
+      "output" : "1566x1080",
+      "height" : 1080,
+      "profile" : "tablet-a-series"
+    },
+    {
+      "screen" : "{2868, 1320}",
+      "output" : "1564x720",
+      "height" : 720,
+      "profile" : "tablet-m1-m2"
+    },
+    {
+      "screen" : "{2532, 1170}",
+      "output" : "1558x720",
+      "height" : 720,
+      "profile" : "tablet-m1-m2"
+    },
+    {
+      "screen" : "{2732, 2048}",
+      "output" : "960x720",
+      "height" : 720,
+      "profile" : "tablet-m1-m2"
+    },
+    {
+      "screen" : "{2360, 1640}",
+      "output" : "1036x720",
+      "height" : 720,
+      "profile" : "tablet-m1-m2"
+    },
+    {
+      "screen" : "{2266, 1488}",
+      "output" : "1096x720",
+      "height" : 720,
+      "profile" : "tablet-m1-m2"
+    },
+    {
+      "screen" : "{2420, 1668}",
+      "output" : "1044x720",
+      "height" : 720,
+      "profile" : "tablet-m1-m2"
+    },
+    {
+      "screen" : "{2868, 1320}",
+      "output" : "2346x1080",
+      "height" : 1080,
+      "profile" : "tablet-m1-m2"
+    },
+    {
+      "screen" : "{2532, 1170}",
+      "output" : "2338x1080",
+      "height" : 1080,
+      "profile" : "tablet-m1-m2"
+    },
+    {
+      "screen" : "{2732, 2048}",
+      "output" : "1440x1080",
+      "height" : 1080,
+      "profile" : "tablet-m1-m2"
+    },
+    {
+      "screen" : "{2360, 1640}",
+      "output" : "1554x1080",
+      "height" : 1080,
+      "profile" : "tablet-m1-m2"
+    },
+    {
+      "screen" : "{2266, 1488}",
+      "output" : "1644x1080",
+      "height" : 1080,
+      "profile" : "tablet-m1-m2"
+    },
+    {
+      "screen" : "{2420, 1668}",
+      "output" : "1566x1080",
+      "height" : 1080,
+      "profile" : "tablet-m1-m2"
+    },
+    {
+      "screen" : "{2868, 1320}",
+      "output" : "1564x720",
+      "height" : 720,
+      "profile" : "tablet-m3-plus"
+    },
+    {
+      "screen" : "{2532, 1170}",
+      "output" : "1558x720",
+      "height" : 720,
+      "profile" : "tablet-m3-plus"
+    },
+    {
+      "screen" : "{2732, 2048}",
+      "output" : "960x720",
+      "height" : 720,
+      "profile" : "tablet-m3-plus"
+    },
+    {
+      "screen" : "{2360, 1640}",
+      "output" : "1036x720",
+      "height" : 720,
+      "profile" : "tablet-m3-plus"
+    },
+    {
+      "screen" : "{2266, 1488}",
+      "output" : "1096x720",
+      "height" : 720,
+      "profile" : "tablet-m3-plus"
+    },
+    {
+      "screen" : "{2420, 1668}",
+      "output" : "1044x720",
+      "height" : 720,
+      "profile" : "tablet-m3-plus"
+    },
+    {
+      "screen" : "{2868, 1320}",
+      "output" : "2346x1080",
+      "height" : 1080,
+      "profile" : "tablet-m3-plus"
+    },
+    {
+      "screen" : "{2532, 1170}",
+      "output" : "2338x1080",
+      "height" : 1080,
+      "profile" : "tablet-m3-plus"
+    },
+    {
+      "screen" : "{2732, 2048}",
+      "output" : "1440x1080",
+      "height" : 1080,
+      "profile" : "tablet-m3-plus"
+    },
+    {
+      "screen" : "{2360, 1640}",
+      "output" : "1554x1080",
+      "height" : 1080,
+      "profile" : "tablet-m3-plus"
+    },
+    {
+      "screen" : "{2266, 1488}",
+      "output" : "1644x1080",
+      "height" : 1080,
+      "profile" : "tablet-m3-plus"
+    },
+    {
+      "screen" : "{2420, 1668}",
+      "output" : "1566x1080",
+      "height" : 1080,
+      "profile" : "tablet-m3-plus"
+    }
+  ],
+  "deviceDetectionAndFallbackPassed" : true,
+  "scope" : "Production profile and settings code on ARM64 Mac; not device gameplay or frame rate",
+  "policyIdempotent" : true,
+  "freshDeviceSchemaVersion" : 140,
+  "existingNonPolicyOptionsPreserved" : true,
+  "physicalDeviceGameplayVerified" : false
+}

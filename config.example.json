@@ -1,0 +1,14 @@
+{
+  "game_root": "~/Library/Application Support/Steam/steamapps/common/Cyberpunk 2077",
+  "developer_dir": "",
+  "minimum_ios": "18.0",
+  "sdk_version": "27.0",
+  "bundle_id": "local.cyberpunk.ios.rebuilt",
+  "display_name": "赛博朋克2077",
+  "game_uuid": "A6656ADC-FBE2-36A4-9B9D-B4A9DE645089",
+  "original_main_sha256": "2a6ba5c2847759f7ed896b6bed7b36fe5a7990f75fe9f779383a62adb19d5a15",
+  "original_text_sha256": "d7d424a91c64d30cf3fa34cbd32a7948d4d77836bb8d8b3c8619e4f23ad0645a",
+  "memory_patch_text_sha256": "100f06bcfce11bb5591a58a304d3775cf89db3beda1bb61c119d381dfec92cab",
+  "resources_mode": "external",
+  "target_device": "iPhone 16 Pro Max"
+}

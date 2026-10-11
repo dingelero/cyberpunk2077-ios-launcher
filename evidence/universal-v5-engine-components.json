@@ -1,0 +1,73 @@
+{
+  "native": {
+    "passed": true,
+    "actualARMDisplayRangeCases": 240,
+    "scope": "Native ARM instructions and host component tests; not full game or physical iPhone performance",
+    "touchRadialClampCases": 40401,
+    "hideAfterFourSecondsBoundaryPassed": true,
+    "sustained30FPSFor30MinutesVerified": false,
+    "settings": {
+      "otherOptionsPreserved": 300,
+      "idempotent": true,
+      "frameGenerationOptionRetained": true,
+      "changes": [
+        {
+          "name": "HDDMode",
+          "before": "Auto",
+          "after": "Off"
+        },
+        {
+          "name": "FSR3_FrameGeneration",
+          "before": true,
+          "after": false
+        },
+        {
+          "name": "FrameGeneration",
+          "before": "FSR3",
+          "after": "Off"
+        },
+        {
+          "name": "MaximumFPS_OnOff",
+          "before": true,
+          "after": false
+        },
+        {
+          "name": "VSync/index",
+          "before": 2,
+          "after": 0
+        }
+      ],
+      "nativeMetalFXMachineEnumVerified": true
+    },
+    "nativeReadOnlyAuditFixturePassed": true
+  },
+  "enginePatch": {
+    "version": "mobile-native30-v2",
+    "uuid": "A6656ADC-FBE2-36A4-9B9D-B4A9DE645089",
+    "beforeTextSHA256": "271b77fc4c2f60e1d15897f3a4b494f8725fca98bd731f9162c4beed0edc4bdf",
+    "afterTextSHA256": "ed2da0c2f4c0cd0078976b281747cd91ea31116d7cd87df5085642ba5a7d5d31",
+    "retiredStreamingPatchRollback": null,
+    "instruction": {
+      "virtualAddress": "0x101076200",
+      "fileOffset": "0x1076200",
+      "before": "0x1e220000",
+      "after": "0x1e27d000"
+    },
+    "displayLinkVSyncOffRequestedFPS": 30,
+    "vSyncOnBranchPreserved": true,
+    "gameplayTickPhysicsAIUnchanged": true,
+    "gameplayContentRemoved": false,
+    "streamingDefaults": {
+      "StreamMaxLoadingThreads": 2,
+      "FloodMinNonLoadingThreads": 2,
+      "DedicatedDecompressionMemoryBytes": 1048576
+    },
+    "nativeCallbackRateObserved": false,
+    "thermalImprovementVerified": false,
+    "sustained30FPSFor30MinutesVerified": false
+  },
+  "failedV1RollbackChecked": true,
+  "byteExactReversalToV4": true,
+  "unsupportedInputsRejected": true,
+  "gameplayVerified": false
+}

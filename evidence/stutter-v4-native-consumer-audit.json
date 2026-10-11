@@ -1,0 +1,42 @@
+{
+  "profile": "iphone16-stutter-v4",
+  "uuid": "A6656ADC-FBE2-36A4-9B9D-B4A9DE645089",
+  "guestTextSHA256": "ed2da0c2f4c0cd0078976b281747cd91ea31116d7cd87df5085642ba5a7d5d31",
+  "nativeConfigCategory": "Streaming",
+  "nativeParameter": "MaxNodesPerFrame",
+  "nativeConstructorCategoryInstruction": "0x10337bcb4",
+  "nativeRegistration": "0x10337bf98",
+  "nativeRange": [
+    1,
+    999999
+  ],
+  "nativeDefault": 300,
+  "candidateBudget": 192,
+  "loadingBudgetNativeDefault": 999999,
+  "nativeBudgetSelection": "0x103371568-0x10337157c",
+  "nativeBudgetClampInstructions": [
+    "0x103371ddc",
+    "0x103371de0",
+    "0x103371de8"
+  ],
+  "codeBytesChangedThisVersion": false,
+  "gameplayArchivesModified": false,
+  "streamingDistancesModified": false,
+  "nodesActuallyLoadedOnDeviceVerified": false,
+  "configurationAppliedOnDeviceVerified": false,
+  "stutterReductionVerified": false,
+  "sources": [
+    {
+      "url": "https://www.nexusmods.com/cyberpunk2077/mods/23257?tab=description",
+      "usedFor": "General batching and handheld/shared memory direction; author values are not copied or treated as iPhone verification"
+    },
+    {
+      "url": "https://github.com/apple/game-porting-toolkit/blob/main/game-porting-skills/skills/presenting-metal-drawables/references/frame-pacing.md",
+      "usedFor": "Native display timing and render-loop integration guidance"
+    },
+    {
+      "url": "https://developer.apple.com/videos/play/wwdc2026/356/",
+      "usedFor": "CDPR native MetalFX, DRS and frame-pacing discussion"
+    }
+  ]
+}

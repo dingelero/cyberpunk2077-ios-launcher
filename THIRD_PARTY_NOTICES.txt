@@ -1,0 +1,7 @@
+Compatibility code adapted from xzk49/Stray-iOS, MIT license.
+Pinned commit af325c2ced6c7b4da51c5b2be05d5147e8d37007.
+https://github.com/xzk49/Stray-iOS
+See LICENSE-Stray-iOS.txt.
+Game binaries and assets are from the user's locally owned Steam installation, not licensed by the MIT compatibility license.
+curl 8.22.0: https://curl.se/ ; see curl-COPYING.txt.
+OpenSSL 3.5.9: https://openssl-library.org/ ; see openssl-LICENSE.txt.

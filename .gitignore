@@ -1,0 +1,23 @@
+# Local game files, dependency trees, build output and device data
+/build/
+/dist/
+/work/
+/vendor/
+/config.local.json
+__pycache__/
+*.py[cod]
+.DS_Store
+*.ipa
+*.dylib
+*.archive
+*.metallib
+*.icns
+*.car
+*.dSYM/
+*.p12
+*.pfx
+*.cer
+*.mobileprovision
+*.zip
+*.download
+*.tmp

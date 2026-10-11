@@ -1,0 +1,10 @@
+{
+  "scope": "Mock-only helper validation; no USB, device, game launch or transfer",
+  "bootstrapSyntaxVerified": true,
+  "noPhysicalDeviceInteraction": true,
+  "importPreflightiPhone": true,
+  "importPreflightiPad": true,
+  "nonPhoneTabletRejected": true,
+  "readOnlyLogExportiPhone": true,
+  "readOnlyLogExportiPad": true
+}
