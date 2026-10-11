@@ -2,13 +2,13 @@
 
 适用于 iPhone 和 iPad 的 Cyberpunk 2077 启动器，支持 720p / 1080p 输出、触控和实体手柄。
 
-- 当前版本：0.8.1 / build 11
-- 系统要求：iOS / iPadOS 18 或以上
+- 系统要求：iOS / iPadOS 18 或以上，
+- 硬件最好在A18/M2以上
 - 游戏文件：Steam macOS 2.31 ARM64 版，需要自行准备
 
-[下载 IPA 和工具](https://github.com/dingelero/cyberpunk2077-ios-launcher/releases/latest) · [完整安装教程（中文 / English）](docs/DingElero启动器-使用教程.md)
+ [完整安装教程（中文 / English）](docs/DingElero启动器-使用教程.md)
 
-## 游戏截图
+## 游戏截图（运行于iPhone16 Pro Max）
 
 **实机游戏画面**
 
@@ -18,13 +18,10 @@
 
 ![驾驶画面](docs/screenshots/driving.png)
 
-**触控界面**
 
-![触控界面](docs/screenshots/touch-controls.png)
+**游戏内基准测试**
 
-**游戏内基准测试（帧生成关闭）**
-
-![游戏内基准测试（帧生成关闭）](docs/screenshots/benchmark.png)
+![游戏内基准测试](docs/screenshots/benchmark.png)
 
 ## 安装与导入资源
 
@@ -51,7 +48,7 @@ GuestGame/
 
 左半屏空白处按下使用浮动摇杆，右半屏滑动转动视角。支持多点触控和实体手柄。“布局”可调整按键、大小、透明度和镜头灵敏度；约 4 秒无触摸后隐藏按钮。启动页可切换中文和 English。
 
-各设备的兼容性、持续性能和 HDR 支持情况仍需真机测试。反馈时请提供机型、系统版本、设备预设和出现问题的场景；日志位于应用文件夹的 `GuestGame` 上一级。
+只测试了iPhone16 Pro Max，其余设备的兼容性、持续性能情况仍需真机测试。反馈时请提供机型、系统版本、设备预设和出现问题的场景；日志位于应用文件夹的 `GuestGame` 上一级。
 
 ## 构建
 
