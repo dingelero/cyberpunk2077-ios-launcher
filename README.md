@@ -1,9 +1,9 @@
 # Cyberpunk 2077 iOS Launcher
 
-适用于 iPhone 和 iPad 的 Cyberpunk 2077 启动器，支持 720p / 1080p 输出、触控和实体手柄。
+适用于 iPhone 和 iPad 的 Cyberpunk 2077 启动器，支持触控和实体手柄（dualsense自适应板机也可以）
 
-- 系统要求：iOS / iPadOS 18 或以上，
-- 硬件最好在A18/M2以上
+- 系统要求：iOS / iPadOS 18 或以上（仅测试过27，其他系统不保证）
+- 硬件最好在A17pro / M2以上
 - 游戏文件：Steam macOS 2.31 ARM64 版，需要自行准备
 
  [完整安装教程（中文 / English）](docs/DingElero启动器-使用教程.md)
