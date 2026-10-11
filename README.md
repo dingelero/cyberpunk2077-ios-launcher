@@ -22,9 +22,9 @@
 
 ![触控界面](docs/screenshots/touch-controls.png)
 
-**游戏内基准测试（FSR 帧生成开启）**
+**游戏内基准测试（帧生成关闭）**
 
-![游戏内基准测试（FSR 帧生成开启）](docs/screenshots/benchmark.png)
+![游戏内基准测试（帧生成关闭）](docs/screenshots/benchmark.png)
 
 ## 安装与导入资源
 
