@@ -6,7 +6,7 @@
 - 系统要求：iOS / iPadOS 18 或以上
 - 游戏文件：Steam macOS 2.31 ARM64 版，需要自行准备
 
-[下载 IPA 和工具](https://github.com/dingguanxiong3-create/cyberpunk2077-ios-launcher/releases/latest) · [完整安装教程（中文 / English）](docs/DingElero启动器-使用教程.md)
+[下载 IPA 和工具](https://github.com/dingelero/cyberpunk2077-ios-launcher/releases/latest) · [完整安装教程（中文 / English）](docs/DingElero启动器-使用教程.md)
 
 ## 安装与导入资源
 
